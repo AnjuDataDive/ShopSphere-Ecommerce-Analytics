@@ -99,39 +99,8 @@ ShopSphere helps the business understand:
 These insights support better decisions in **sales, customer retention, product strategy, marketing, and delivery operations**.
 
 ---
-## 📁 Repository Structure
 
-The repository is organized into separate sections for the overall project and each Power BI dashboard.
-
-
-ShopSphere-Ecommerce-Analytics/
-│
-├── README.md
-│
-├── Business_Overview/
-│   ├── README.md
-│   └── business_overview.png
-│
-├── Customer_Sales/
-│   ├── README.md
-│   └── customer_sales.png
-│
-├── Product_Performance/
-│   ├── README.md
-│   └── product_performance.png
-│
-├── Marketing_Campaign_Performance/
-│   ├── README.md
-│   └── marketing_campaign_performance.png
-│
-└── Delivery_Performance/
-    ├── README.md
-    └── delivery_performance.png
-
-    ---
-
-    ## 🚀 Future Improvements
-
+## 🚀 Future Improvements
 The project can be further enhanced by adding:
 
 - 👥 **Customer Segmentation** — Group customers based on their purchasing behavior.
